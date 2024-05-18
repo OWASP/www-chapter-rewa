@@ -2,86 +2,64 @@
 
 layout: col-sidebar
 title: OWASP Rewa
-tags: example-tag
+tags: archive-tag
+level: 4
+
 region: Asia
+meetup-group: OWASP-Rewa-Chapter
 country: India
-meetup-group:
+postal-code: 486001
+
+---
+<link rel="stylesheet" href="assets/custom.css">
+
+This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
+
+## Meeting Schedule
+
+[Meetings are organized via meetup](https://meetup.com/OWASP-Rewa-Chapter/)
+
+## Next Meeting: 29th June, 2024
+
+
+<div id="meetup_oembed" style="height:334px">
+     <div style="max-height:294px;overflow:hidden">
+           <h3>Web Security 101</h3>
+          <p style="margin:5px 0;font-size:16px">29th June, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+<h4> *Description:* </h4>         
+<p>
+     <br>
+Welcome to "Web Security 101," a comprehensive beginner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
+<br><br>
+In today's digital age, our online presence is more significant than ever. From personal information to financial data, we entrust a plethora of sensitive details to the web. However, with the increasing prevalence of cyber threats and malicious actors, it's crucial to fortify our defenses and ensure the safety of our digital footprint.
+<br><br>
+Join us for an enlightening journey into the realm of web security, where you'll learn:
+<br>
+- Foundations of Web Security: Understand the basic concepts and principles of web security, including common vulnerabilities and attack vectors.
+
+- Protecting Your Digital Assets: Discover practical tips and best practices for safeguarding your personal and professional information online.
+- Securing Your Devices and Networks: Learn how to secure your devices, networks, and online accounts against cyber threats, malware, and phishing attacks.
+
+- Navigating the Cyber Landscape: Gain insights into the evolving cybersecurity landscape and emerging trends, empowering you to stay ahead of potential threats.
+
+- Interactive Workshops and Demos: Engage in hands-on workshops and live demonstrations that reinforce your learning and provide practical guidance for implementing security measures effectively.
+
+- Community Engagement: Connect with like-minded individuals, share experiences, and collaborate on strategies for enhancing web security awareness and resilience.
+<br> <br>
+Whether you're a student, professional, or simply a concerned internet user, "Web Security 101: Safeguarding Your Digital Footprint" offers a welcoming environment where everyone can learn and thrive.
+<br> <br>
+Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
+
+*Date:* 29th June, 2024
+
+*Location:* To Be Announced
+
+*Time:* 10:30 AM
 
 ---
 
-<div style='color:red;'>
 
-This is an example of a Project or Chapter Page.  Please change these items to indicate the actual information you wish to present.  In addition to this information, the 'front-matter' above this text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-<ul>
-<li>layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar</li>
-
-<li>title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore</li>
-
-<li>tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) </li>
-
-<li>region: This is the region you are in according to our data</li>
-
-<li>meetup-group: This is the name of your meetup group, usually in the form of OWASP-chapter.  By putting these details here, the section below labeled 'Next Meeting/Event' will get automatically populated with your upcoming meetup events.</li>
-</ul>
-
+</p>     
 </div>
-
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapters Policy](/www-policy/operational/chapters). Financial contributions should only be made online using the authorized online donation button. 
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects/), [Local Chapters](/chapters/), [Events](/events/), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership/) or consider a [donation](/donate/) to support our ongoing work.
-
-Next Meeting/Event <!-- You should keep this section as it will populate your meetup events -->
----------------------
-{% include chapter_events.html group=page.meetup-group %}
-
-<!-- You should delete this comment
-
-Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
-
-{front matter for this file}
-
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
-
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
-
-## Participation
-The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
-
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
-
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
-
-## Next Meeting/Event
----------------------
-{% comment %}
-{% include chapter_events.html group=page.meetup-group %}
-{% endcomment %}
-
-```
-{info.md}
-
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
-
-{leaders.md}
-
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
-
--->
+     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/" target="_blank" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
+</div>

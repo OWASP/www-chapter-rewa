@@ -24,7 +24,7 @@ This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
 
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
-           <h3> Cyber & Web Security 101</h3>
+           <h3> Cyber & Web Security 102</h3>
           <p style="margin:5px 0;font-size:16px">20th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/303020985" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> *Description:* </h4>         
 <p>

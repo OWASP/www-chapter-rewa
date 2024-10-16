@@ -25,11 +25,11 @@ This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
            <h3> Cyber & Web Security 102</h3>
-          <p style="margin:5px 0;font-size:16px">20th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/303020985" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+          <p style="margin:5px 0;font-size:16px">20th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> *Description:* </h4>         
 <p>
      <br>
-Welcome to "Cyber & Web Security 102," a comprehensive beginner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
+Welcome to ","𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩"ner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
 <br><br>
 In today's digital age, our online presence is more significant than ever. From personal information to financial data, we entrust a plethora of sensitive details to the web. However, with the increasing prevalence of cyber threats and malicious actors, it's crucial to fortify our defenses and ensure the safety of our digital footprint.
 <br><br>
@@ -46,20 +46,20 @@ Join us for an enlightening journey into the realm of web security, where you'll
 
 - Community Engagement: Connect with like-minded individuals, share experiences, and collaborate on strategies for enhancing web security awareness and resilience.
 <br> <br>
-Whether you're a student, professional, or simply a concerned internet user, "Cyber & Web Security 102: Safeguarding Your Digital Footprint" offers a welcoming environment where everyone can learn and thrive.
+Whether you're a student, professional, or simply a concerned internet user, "𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩"tal Footprint" offers a welcoming environment where everyone can learn and thrive.
 <br> <br>
 Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
 
 *Date:* 20th Oct, 2024
 
-*Location:* Hybrid
+*Location:* online
 
-*Time:* 6:00 PM
+*Time:* 4:00 PM
 
 ---
 
 
 </p>     
 </div>
-     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-rewa-chapter/events/303020985" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
+     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
 </div>

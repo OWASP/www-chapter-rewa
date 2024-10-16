@@ -24,7 +24,7 @@ This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
 
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
-           <h3> <"𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩/h3>
+           <h3> "𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</h3>
           <p style="margin:5px 0;font-size:16px">20th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> *Description:* </h4>         
 <p>

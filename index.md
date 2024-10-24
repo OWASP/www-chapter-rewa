@@ -19,17 +19,17 @@ This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
 
 [Meetings are organized via meetup](https://www.meetup.com/owasp-rewa-chapter/)
 
-## Next Meeting: 20th, 2024
+## Next Meeting: 5th Nov, 2024
 
 
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
-           <h3> "𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩</h3>
-          <p style="margin:5px 0;font-size:16px">20th Oct, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+           <h3> "Biometric Authentication in Fintech: Enhancing Security in Digital Banking</h3>
+          <p style="margin:5px 0;font-size:16px">5th Nov, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> *Description:* </h4>         
 <p>
      <br>
-Welcome to ","𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩"ner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
+Welcome to ","Biometric Authentication in Fintech: Enhancing Security in Digital Banking"ner-level event designed to equip you with the essential knowledge and skills to protect yourself online.
 <br><br>
 In today's digital age, our online presence is more significant than ever. From personal information to financial data, we entrust a plethora of sensitive details to the web. However, with the increasing prevalence of cyber threats and malicious actors, it's crucial to fortify our defenses and ensure the safety of our digital footprint.
 <br><br>
@@ -46,13 +46,13 @@ Join us for an enlightening journey into the realm of web security, where you'll
 
 - Community Engagement: Connect with like-minded individuals, share experiences, and collaborate on strategies for enhancing web security awareness and resilience.
 <br> <br>
-Whether you're a student, professional, or simply a concerned internet user, "𝘿𝙚𝙘𝙤𝙙𝙞𝙣𝙜 𝙊𝙒𝘼𝙎𝙋 𝙏𝙤𝙥 10: 𝘼 𝘽𝙡𝙪𝙚𝙥𝙧𝙞𝙣𝙩 𝙛𝙤𝙧 𝙎𝙚𝙘𝙪𝙧𝙚 𝘼𝙥𝙥𝙡𝙞𝙘𝙖𝙩𝙞𝙤𝙣 𝘿𝙚𝙫𝙚𝙡𝙤𝙥𝙢𝙚𝙣𝙩"tal Footprint" offers a welcoming environment where everyone can learn and thrive.
+Whether you're a student, professional, or simply a concerned internet user, "Biometric Authentication in Fintech: Enhancing Security in Digital Banking"tal Footprint" offers a welcoming environment where everyone can learn and thrive.
 <br> <br>
 Don't miss this opportunity to take control of your online security and protect what matters most. Reserve your spot today and embark on a journey towards a safer digital future!
 
-*Date:* 20th Oct, 2024
+*Date:* 5th Nov, 2024
 
-*Location:* online
+*Location:* Aloha-The Rooftop restaurant
 
 *Time:* 4:00 PM
 

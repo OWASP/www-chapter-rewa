@@ -25,7 +25,7 @@ This is the official page for OWASP Rewa Chapter from Indian Subcontinent.
 <div id="meetup_oembed" style="height:334px">
      <div style="max-height:294px;overflow:hidden">
            <h3> "Biometric Authentication in Fintech: Enhancing Security in Digital Banking</h3>
-          <p style="margin:5px 0;font-size:16px">5th Nov, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
+          <p style="margin:5px 0;font-size:16px">5th Nov, 2024 <br> Meetup Link to Register: <a href="https://www.meetup.com/owasp-rewa-chapter/events/304159235/" target="_blank" class="mu_button"><strong>Click Here &rarr;</strong></a> </p>
 <h4> *Description:* </h4>         
 <p>
      <br>
@@ -61,5 +61,5 @@ Don't miss this opportunity to take control of your online security and protect 
 
 </p>     
 </div>
-     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-rewa-chapter/events/304037499/" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
+     <p style="margin:10px 0 0;"><a href="https://www.meetup.com/owasp-rewa-chapter/" class="mu_button"><strong>Check out this Meetup &rarr;</strong></a></p>
 </div>

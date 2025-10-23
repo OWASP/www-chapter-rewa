@@ -1,0 +1,27 @@
+leaders:
+  - name: Ayush Tripathi
+    email: ayush.tripathi@owasp.org
+  - name: Praveen Singh
+    email: praveen.singh@owasp.org
+    github: singh9993
+  - name: Ajay Patel
+    email: ajay.patel@owasp.org
+location:
+  country: India
+  country_code: IN
+  region: Madhya Pradesh
+  city: Rewa
+  postal_code: '486001'
+  latitude: 24.535401
+  longitude: 81.2978217236155
+meetup_group: OWASP-Rewa-Chapter
+name: OWASP Rewa
+repositories:
+  - name: www-chapter-rewa
+    url: https://github.com/OWASP/www-chapter-rewa
+    description: OWASP Foundation Web Repository
+tags:
+  - archive-tag
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-rewa
